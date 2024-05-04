@@ -1,0 +1,12 @@
+.image{
+  box-sizing:border-box;
+  width: 100%;
+  margin:20px 0;
+}
+.project{
+   margin:20px 0;
+}
+.link{
+ text-decoration: none;
+ color:black;
+}
